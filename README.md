@@ -121,7 +121,7 @@ Penggunaan Bootstrap membantu mengatur tampilan tabel, form, tombol, dan tata le
 # Dokumentasi
 
 ## page lectures
-<img src="Dokumentasi/tambah.gif" width="100%">
+<img src="Dokumentasi/proses lectures.gif" width="100%">
 
 ## page courses
-<img src="Dokumentasi/update.gif" width="100%">
+<img src="Dokumentasi/proses courses.gif" width="100%">
