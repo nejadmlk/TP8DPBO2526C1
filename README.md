@@ -59,10 +59,6 @@ Berikut merupakan penjelasan class yang digunakan:
 
 ### Alur Program (Flow Kode), Alur Design
 
-<img src="Dokumentasi/tambah.gif" width="100%">
-
-<img src="Dokumentasi/tambah.gif" width="100%">
-
 Alur program dimulai ketika pengguna membuka website melalui file index.php. File tersebut berfungsi sebagai pintu masuk untuk mengakses halaman pengelolaan data Lectures. Selanjutnya, index.php memanggil lecturesController untuk memproses permintaan pengguna.
 
 Pada halaman Lectures, program menampilkan data dosen yang diambil dari database. Pengguna dapat melakukan beberapa tindakan, yaitu:
